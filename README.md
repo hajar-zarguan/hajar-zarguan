@@ -1,5 +1,6 @@
 
 # Salut, JE SUIS Hajar! 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hajar-zarguan&label=Profile%20views&color=0e75b6&style=flat" alt="hajar-zarguan" /> </p>
 Actuellement, je suis étudiante **en cycle d'ingénieur**, filière :
 ***Génie du Logiciel et des Systèmes Informatiques Distribués*** à Ecole Normale Supérieure de l'Enseignement Technique de Mohammedia et j'ai un **diplôme universitaire de technologie** filière : Génie informatique, option : Génie Logiciel à L'Ecole Nationale des Sciences Appliquées de Berrechid.
 Je suis une informaticienne peut coder avec des différents langages de programmation (C, JAVA, JAVAFX, KOLTIN, Vb.net, PHP et JavaScript) et graphique designer.
@@ -32,6 +33,8 @@ MongoDB, MySQL , ORACLE DATABASE ...
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hajar.com/)
 
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hajar-zarguan&" alt="hajar-zarguan" /></p>
 
 <!---
 hajar-zarguan/hajar-zarguan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
