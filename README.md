@@ -12,6 +12,14 @@ N’hésitez pas à me contacter pour toute information que vous jugerez nécess
 - Email : h.zarguan_etu@enset-media.ac.ma
 ```
 
+## 🏃 Contribution 
+[![Hajar Zarguan](https://activity-graph.herokuapp.com/graph?username=hajar-zarguan&theme=xcode)](https://git.io/khushi0321)
+
+ <h1 align = 'Center'> 🐍 </h1>
+<p align="center">
+  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
 
 
 ## 🛠 Skills
